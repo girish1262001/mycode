@@ -19,3 +19,4 @@ name = "poonam" ; //defanition
 console.log(name);
 
 let sName = "Patil"  //dclr + def
+console.log(sName);
