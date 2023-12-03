@@ -1,5 +1,5 @@
 // data types:1. Primitive Data type 2. Nonpremitive
-//  The Primitive Data types: single value holder-- in JavaScript include Number, String, Boolean, Undefined, Null and Symbol.
+// The Primitive Data types: single value holder-- in JavaScript include Number, String, Boolean, Undefined, Null and Symbol.
 // Number
 // String
 // Boolean
