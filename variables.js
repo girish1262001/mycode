@@ -15,7 +15,7 @@ marks1= 90;
 
 let name ; //declaration
 console.log(name);
-name = "poonam" ; //defanition
+name = "poonam" ; //defination
 console.log(name);
 
 let sName = "Patil"  //dclr + def
