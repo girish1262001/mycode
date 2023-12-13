@@ -141,11 +141,11 @@ function userPassword(userPass){
     console.log(userPass);
 }
 
- let a = 8;
- let b = 2;
+let A = 8;
+let b = 2;
 
 function multiplication(){
-   var res = a*b;
+   var res = A*b;
    multiplication2(res)
    
 }
