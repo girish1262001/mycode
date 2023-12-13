@@ -7,7 +7,7 @@ if ( marks > 75 ) {
 }
 
 //if else
-if (marks > 35) {
+if (marks > 45) {
     console.log("Pass...");
 } else {
     console.log("fail");
