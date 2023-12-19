@@ -52,7 +52,7 @@ switch (amount) {
 
 let a = 90; //assgment opr
 
-b = 20;
+b1 = 20;
 
 if(b == "80"){  //== equality opr : it will chk only value not data type
 console.log("b has 80");
