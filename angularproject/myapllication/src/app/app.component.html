@@ -1,11 +1,11 @@
- <div>welcome1</div>
- <p>{{a}}</p>
- 
-<div >{{city}}</div>
+<div>welcome1</div>
+<p>{{a}}</p>
+
+<div>{{city}}</div>
 
 {{city}}
 <br>
-<input type="text" value="patil" >
+<input type="text" value="patil">
 <br>
 <input type="text" [value]="myName">
 <br>
@@ -15,5 +15,9 @@
 <input type="text" disabled="{{isDisable}}"><br>
 
 <button (click)="submit()">Submit</button>
-  <div>{{fruit}}</div>
- <app-home></app-home>
+<div>{{fruit}}</div>
+<br>
+<input type="text" [(ngModel)]="favFruit">Enter your fav Fruit
+<br>
+{{favFruit}}
+<app-home></app-home>

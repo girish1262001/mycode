@@ -27,4 +27,8 @@ export class AppComponent {
   submit() {
     this.fruit = "Mango";
   }
+  inputBoxValue(data:any){
+    console.log(data.target.value);
+    this.myName = data.target.value
+   } 
 }
